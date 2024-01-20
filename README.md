@@ -5,4 +5,6 @@ Lo and behold, kindred reader! What lies before you is a repository of literary 
 
 [Books]
 
+**Personal Development**
+
 - The 4-Hour Workweek Escape 9-5 by Timothy Ferriss
